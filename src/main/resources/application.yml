@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+swagger.protocol: http
+swagger.host: localhost:8080
+
+
+
